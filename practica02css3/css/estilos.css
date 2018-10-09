@@ -1,0 +1,127 @@
+body{
+	font-size: 16px;
+	margin:0px auto;
+	max-width: 1078px;
+	min-height: 1078px;
+	/*1078 requerimiento del cliente*/
+}
+header input{
+	float:right;
+	margin-right: -200px;
+	position:relative;
+	margin-top: 15px;
+}
+header nav{
+	margin-left: 220px;
+	/*text-align: center;*/
+}
+header nav ul li{
+	color:gray;
+	display: inline-block;
+	font-size: 1.8em;
+	margin-right: 15px;
+	border-bottom: 1px solid gray;
+	padding-bottom: 2px;
+}
+
+
+#primerseccion{
+
+/*border: 1px solid blue;*/
+
+margin-top: 60px;
+
+}
+#primerseccion article{
+	/*border: 1px solid red;*/
+
+    display: inline-block;
+    vertical-align: top;
+}
+
+
+#bgoffer{
+
+	left: -35px;
+    position:  relative;
+	top: -410px;
+}
+
+
+
+#granthams{
+	margin-top: 25px;
+	margin-left: 25px;
+}
+#paint{
+float:right;
+}
+
+#secc01art01{
+margin-left: 30px;
+	width: 61%;
+}
+
+#secc01art02{
+    
+    margin-left: 50px;
+	width: 30%;
+}
+
+
+#secc01art02 ul{
+	list-style: none; /* quitamos vinetas*/
+}
+
+#secc01art02 ul li:before{
+
+	content: "• ";
+	color: #b28787;
+}
+
+#segundaseccion article{
+	padding-right: 122px;
+	text-align: right;
+}
+
+.colorrosa{
+
+	color: #FF0099;
+
+
+}
+
+
+.letragrande{
+
+	font-size: 3.5em; /* 3.5x16*/
+}
+
+
+.letramediana{
+	font-size: 2em;
+}
+
+
+.nito{
+	font-weight: bold; /* negritas */
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
