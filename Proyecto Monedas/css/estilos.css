@@ -1,0 +1,67 @@
+
+body{
+	font-size: 25px;
+	font-weight: bold;
+	margin:0px auto;
+	max-width: 1078px;
+	min-height: 1078px;
+	/*1078 requerimiento del cliente*/
+}
+
+header {
+    
+    height: 100px;
+
+    background: #020359;
+	color: white;
+	text-align: center;
+
+	border-bottom: 5px solid black;
+}
+
+#monedas{
+
+	height: 100px;
+	padding-right: 200px;
+}
+
+#monedas2{
+
+	height: 100px;
+}
+
+#trollface{
+
+	height: 150px;
+}
+
+
+#sec01{
+
+/*display: inline-block;*/
+border-bottom: 3px solid black;
+border-left: 7px solid black;
+border-right:  7px solid black;
+
+}
+
+#sec02{
+border-bottom: 3px solid black;
+border-left: 7px solid black;
+border-right:  7px solid black;
+	
+}
+
+#sec03{
+
+	border-bottom: 3px solid black;
+	border-left: 7px solid black;
+    border-right:  7px solid black;
+}
+
+#sec04{
+
+	border-bottom: 3px solid black;
+	border-left: 7px solid black;
+    border-right:  7px solid black;
+}
